@@ -22,4 +22,4 @@ You are required to model the price of houses with the available independent var
 
 
 ## Contact
-Created by [@Krilecy] - feel free to reach out!
+Created by @Krilecy - feel free to reach out!
